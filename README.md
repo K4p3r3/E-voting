@@ -18,11 +18,7 @@ Via the ballot page (see screenshot below), the voter needs to enter his pseudon
 
 In this section, transactions (ballots) with valid data will be generated. They are then sealed into blocks. After that, you can explore the transactions and blocks, try to tamper the records, and verify them.
 
-![Sealed ballot](https://raw.githubusercontent.com/GottfriedCP/Blockchain-based-E-Voting-Simulation/master/screenshots/transactions.PNG)
 
-![Block](https://raw.githubusercontent.com/GottfriedCP/Blockchain-based-E-Voting-Simulation/master/screenshots/block.PNG)
-
-_The screenshot above shows that a node's database (i.e., your node) has been tampered. You will not see this in real blockchain explorer, but this should give you a glimpse of why tampering immutable ledger is futile._
 
 ## How to run
 
