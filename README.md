@@ -12,7 +12,6 @@ Via the ballot page (see screenshot below), the voter needs to enter his pseudon
 
 (The public-private key pair is hard coded and generated externally. See Technical Details below.)
 
-![Ballot page](https://raw.githubusercontent.com/GottfriedCP/Blockchain-based-E-Voting-Simulation/master/screenshots/ballot.PNG)
 
 ### "Chain"
 
@@ -35,12 +34,3 @@ The private key used in this demo is located in 'bbevoting_project' folder ('dem
 
 See the 'screenshots' folder.
 
-## Acknowledgement
-
-For Prof. ABM.
-
-This project uses a modified version of "pymerkletools" by Tierion for creating merkle root using SHA3.
-
-## License
-
-See included MIT License.
