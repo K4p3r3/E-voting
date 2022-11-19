@@ -30,7 +30,5 @@ In this section, transactions (ballots) with valid data will be generated. They 
 
 The private key used in this demo is located in 'bbevoting_project' folder ('demo_private.pem' file), while the corresponding public key is hard coded in 'settings.py' (look for `PUBLIC_KEY`). You may also set some config vars such as `N_TRANSACTIONS`, `N_TX_PER_BLOCK`, and the puzzle difficulty (`PUZZLE` and `PLENGTH`).
 
-## Screenshots
 
-See the 'screenshots' folder.
 
